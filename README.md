@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj1902
 - 👀 I’m interested in playing with code
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking for full time Android Dev work
 - 📫 You can reach me through my mail Raj.manoj34@gmail.com
 
